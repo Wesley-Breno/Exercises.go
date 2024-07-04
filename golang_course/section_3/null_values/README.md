@@ -1,0 +1,1 @@
+In this code I have provided the basic types of null values ​​for each data type in Golang. The null values ​​of each data type are shown on the screen when the code is executed.

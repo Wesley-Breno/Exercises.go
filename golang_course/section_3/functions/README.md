@@ -1,0 +1,1 @@
+In this code I consolidated my knowledge of basic functions in Go. I created two functions, one to print an integer value on the screen and the other to add 2 integer values ​​to the screen. In the end, in the main function, I used the two functions I created to add 2 values ​​and show their result on the screen.

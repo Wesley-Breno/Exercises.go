@@ -1,0 +1,1 @@
+In this code, knowledge about relational operators was consolidated. Checking for equality, whether it is smaller, larger, smaller or equal, larger or equal or different. These comparisons with relational operators were made with several different data types (string, int, Unix time and data struct)

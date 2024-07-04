@@ -1,0 +1,1 @@
+In this code there are some notes about learning how variables work in Golang. Examples of how to define them, how to define constants, how to define variables in reduced form, how to define building blocks of variables/constants, how to define variables in a single line and how to define them in a single line and in reduced form.

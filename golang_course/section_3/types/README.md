@@ -1,0 +1,1 @@
+In this code I programmed to show the most basic data types in Golang. These are; strings, booleans, int (only positive), int (negatives and positives) and float numbers of different bits.

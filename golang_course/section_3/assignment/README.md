@@ -1,0 +1,1 @@
+In this code snippet I show some assignment operators from the complete way to the short and simplified way.

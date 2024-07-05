@@ -1,0 +1,1 @@
+This code was written to consolidate the learning of arrays. It creates an array of 3 spaces that are filled later, after which the average of the values ​​in this array is taken and shown on the screen.

@@ -1,0 +1,1 @@
+Creating an IF that has a variable only accessible in its condition scopes. (if/else if/else).

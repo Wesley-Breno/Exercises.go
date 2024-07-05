@@ -1,0 +1,1 @@
+In this code we use the for loop to cycle through the values/spaces of an array. It is also shown how to cycle through the values ​​and ignore the index variable that the for loop generates.

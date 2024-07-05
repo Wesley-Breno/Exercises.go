@@ -1,0 +1,1 @@
+In this code, we wrote a little about how slices work using the 'make()' method. Creating slices with make, creating slices with element limits, going from the element limit to double the slice limit, etc.

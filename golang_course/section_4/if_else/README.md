@@ -1,0 +1,1 @@
+Learning about control structures in Golang. In this code I wrote a small function that receives a parameter of type float64, this parameter will be used in a control structure and will show a message on the screen if the value is greater than or equal to 7 and another message otherwise.

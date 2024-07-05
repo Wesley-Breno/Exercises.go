@@ -1,0 +1,1 @@
+Using the switch inside a function that receives any type of data as a parameter. The switch will be used to check the data type entered as a parameter and will return a string informing the data type that was entered.

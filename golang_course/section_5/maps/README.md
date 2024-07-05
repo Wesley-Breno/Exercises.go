@@ -1,0 +1,1 @@
+Code to consolidate learning about maps in Go. In it I show how to create, insert data and remove data from a map.

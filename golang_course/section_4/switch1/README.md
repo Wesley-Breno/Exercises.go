@@ -1,0 +1,1 @@
+Learning about how to use the switch. In this code I made a small function that receives a student's average as a parameter, after that, the switch is used to define the student's grade and return it.

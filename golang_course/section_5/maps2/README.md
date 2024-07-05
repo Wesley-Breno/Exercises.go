@@ -1,0 +1,1 @@
+In this code we create and define the values ​​of a map at its initialization. We add new values ​​and iterate over the maps keys and values.

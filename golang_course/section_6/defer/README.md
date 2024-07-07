@@ -1,0 +1,1 @@
+In this code, we are using the 'defer' method to be able to execute a piece of code before a function finishes its algorithm. For example, you define the code that will be executed at the end of the function. After that, the function will do its routine and when it is about to finish, it will execute the code that you defined to be executed before finishing.

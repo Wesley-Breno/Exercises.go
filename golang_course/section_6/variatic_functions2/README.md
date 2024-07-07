@@ -1,0 +1,1 @@
+In this code we pass an unpacked slice to a variatic function, this variatic function will take each value of this slice and show them on the screen.

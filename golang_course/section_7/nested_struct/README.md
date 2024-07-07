@@ -1,0 +1,1 @@
+In this code, nested structs are created to simulate an order and item listing process. With this, a method is created in one of the structs that will be responsible for taking the orders and calculating the total that must be paid.

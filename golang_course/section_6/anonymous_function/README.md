@@ -1,0 +1,1 @@
+This code shows examples of uses and creation of anonymous functions. The use and creation of anonymous functions in different scopes of the code is shown.

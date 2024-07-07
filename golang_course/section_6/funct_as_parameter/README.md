@@ -1,0 +1,1 @@
+This code shows an example of creating and using a function that receives another function as a parameter. This function receives a function as a parameter, executes it and returns its result.

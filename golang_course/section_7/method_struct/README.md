@@ -1,0 +1,1 @@
+In this code we create a struct with 2 methods that are responsible for manipulating its attributes. This solidifies the knowledge of how the methods of a struct work.

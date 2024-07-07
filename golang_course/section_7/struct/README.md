@@ -1,0 +1,1 @@
+In this code we create a struct that receives 3 data fields; product, price and discount. The struct has a method that serves to give the user a discount depending on the data provided.

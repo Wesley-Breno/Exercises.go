@@ -1,0 +1,1 @@
+This code shows examples of creating functions in Golang. Simple functions, parameterized functions, multiple return functions, etc.

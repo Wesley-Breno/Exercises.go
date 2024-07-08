@@ -1,0 +1,1 @@
+Knowing how the 'go' command works for parallelism in Golang.

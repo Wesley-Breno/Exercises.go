@@ -1,0 +1,1 @@
+Create a program that asks for the 4 bimonthly grades and shows the average.

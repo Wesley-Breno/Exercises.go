@@ -1,0 +1,1 @@
+Write a program that calculates the area of ​​a square, then shows twice this area to the user.

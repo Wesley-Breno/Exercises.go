@@ -1,0 +1,1 @@
+Make a program for a paint store. The program should ask for the size in square meters of the area to be painted. Consider that the paint coverage is 1 liter for every 3 square meters and that the paint is sold in 18-liter cans, which cost R$80.00. Inform the user of the quantities of paint cans to be purchased and the total price.

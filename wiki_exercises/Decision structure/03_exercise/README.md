@@ -1,0 +1,1 @@
+Write a Program that checks whether a typed letter is "F" or "M". According to the letter: F - Female, M - Male, Invalid Sex.

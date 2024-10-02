@@ -1,0 +1,1 @@
+Write a program that checks whether a typed letter is a vowel or a consonant.

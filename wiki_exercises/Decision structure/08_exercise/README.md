@@ -1,0 +1,1 @@
+Create a program that asks the price of three products and tells you which product you should buy, knowing that the decision is always for the cheapest.

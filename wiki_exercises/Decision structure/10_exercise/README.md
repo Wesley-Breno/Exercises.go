@@ -1,0 +1,1 @@
+Create a program that asks which shift you study. Ask to enter M-Morning or E-Evening or N-Night. Print the message "Good Morning!", "Good Afternoon!" or "Good Night!" or "Invalid Value!", as applicable.

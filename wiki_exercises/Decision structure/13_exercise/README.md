@@ -1,0 +1,1 @@
+Make a Program that reads a number and displays the corresponding day of the week. (1-Sunday, 2- Monday, etc.), if you enter another value, an invalid value will appear.

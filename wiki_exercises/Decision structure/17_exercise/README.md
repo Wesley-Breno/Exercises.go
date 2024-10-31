@@ -1,0 +1,1 @@
+Write a Program that asks for a number corresponding to a certain year and then informs whether this year is a leap year or not.

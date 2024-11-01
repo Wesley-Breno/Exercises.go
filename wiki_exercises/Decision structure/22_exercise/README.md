@@ -1,0 +1,1 @@
+Write a Program that asks for a number and informs whether the number is integer or decimal. Tip: use a rounding function.

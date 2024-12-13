@@ -1,0 +1,1 @@
+Assuming that the population of country A is around 80,000 inhabitants with an annual growth rate of 3% and that the population of country B is 200,000 inhabitants with a growth rate of 1.5%. Write a program that calculates and writes the number of years required for the population of country A to exceed or equal the population of country B, maintaining the growth rates.

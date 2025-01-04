@@ -1,0 +1,1 @@
+Write a program that prints the numbers 1 to 20 on the screen, one below the other. Then modify the program so that it displays the numbers next to each other.

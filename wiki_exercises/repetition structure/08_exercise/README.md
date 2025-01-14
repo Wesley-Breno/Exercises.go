@@ -1,0 +1,1 @@
+Make a program that reads 5 numbers and reports the sum and average of the numbers.

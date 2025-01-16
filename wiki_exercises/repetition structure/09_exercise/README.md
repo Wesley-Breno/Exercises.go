@@ -1,0 +1,1 @@
+Make a program that prints only odd numbers between 1 and 50 on the screen.

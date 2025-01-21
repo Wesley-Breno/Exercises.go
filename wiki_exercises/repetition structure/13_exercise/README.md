@@ -1,0 +1,1 @@
+Write a program that asks for two numbers, base and exponent, calculates and displays the first number raised to the second number. Do not use the power function of the language.

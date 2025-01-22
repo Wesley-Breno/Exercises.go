@@ -1,0 +1,1 @@
+Make a program that asks for 10 integers, calculates and displays the number of even numbers and the number of odd numbers.

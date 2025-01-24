@@ -1,0 +1,1 @@
+The Fibonacci series is formed by the sequence 1,1,2,3,5,8,13,21,34,55,... Write a program capable of generating the series up to the nth term.

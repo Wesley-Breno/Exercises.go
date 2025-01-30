@@ -1,0 +1,1 @@
+Write a program that, given a set of N numbers, determines the smallest value, the largest value and the sum of the values.

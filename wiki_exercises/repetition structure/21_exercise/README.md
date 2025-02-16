@@ -1,0 +1,1 @@
+Write a program that asks for an integer and determines whether or not it is a prime number. A prime number is one that is divisible only by itself and 1.

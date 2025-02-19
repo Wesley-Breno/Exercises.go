@@ -1,0 +1,1 @@
+Change the prime number calculation program, informing, if the number is not prime, by which numbers it is divisible.

@@ -1,0 +1,1 @@
+Write a program that displays all prime numbers between 1 and N, where N is an integer provided by the user. The program should also display the number of divisions it performed to find the prime numbers. The program's functionality, style, and number of tests (divisions) performed will be evaluated.

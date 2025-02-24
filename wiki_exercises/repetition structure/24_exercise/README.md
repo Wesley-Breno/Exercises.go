@@ -1,0 +1,1 @@
+Make a program that calculates and displays the arithmetic mean of N grades.

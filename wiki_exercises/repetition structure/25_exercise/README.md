@@ -1,0 +1,1 @@
+Make a program that asks n people for their age. At the end, the program should check whether the average age of the class varies between 0 and 25, 26 and 60 and over 60; and then, say whether the class is young, adult or elderly, according to the calculated average.

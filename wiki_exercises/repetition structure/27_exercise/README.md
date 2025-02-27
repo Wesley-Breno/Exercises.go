@@ -1,0 +1,1 @@
+Write a program that calculates the average number of students per class. To do this, ask for the number of classes and the number of students for each class. Classes cannot have more than 40 students.

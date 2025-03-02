@@ -1,0 +1,1 @@
+Create a program that calculates the total amount invested by a collector in his CD collection and the average amount spent on each one. The user must enter the number of CDs and the amount spent on each one.

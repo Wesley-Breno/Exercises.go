@@ -1,0 +1,1 @@
+The State Department of Meteorology hired you to develop a program that reads an undetermined set of temperatures and reports the lowest and highest temperatures reported, as well as the average temperature.

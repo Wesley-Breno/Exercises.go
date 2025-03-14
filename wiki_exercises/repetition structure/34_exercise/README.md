@@ -1,0 +1,1 @@
+Prime numbers have several applications in Computing, for example in Cryptography. A prime number is one that is divisible only by one and itself. Write a program that asks for an integer and determines whether or not it is a prime number.

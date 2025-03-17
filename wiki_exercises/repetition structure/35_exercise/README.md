@@ -1,0 +1,1 @@
+Finding prime numbers is a difficult task. Write a program that generates a list of prime numbers between 1 and an integer entered by the user.

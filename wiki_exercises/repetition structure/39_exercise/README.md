@@ -1,0 +1,1 @@
+Write a program that reads ten sets of two values, the first representing the student's number and the second representing his/her height in centimeters. Find the tallest and the shortest student. Display the number of the tallest student and the number of the shortest student, along with their heights.

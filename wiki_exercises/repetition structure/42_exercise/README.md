@@ -1,0 +1,1 @@
+Write a program that reads an indeterminate number of positive numbers and counts how many of them are in the following ranges: [0-25], [26-50], [51-75] and [76-100]. The data input should end when a negative number is read.

@@ -1,0 +1,3 @@
+"""
+In a gymnastics competition, each athlete receives votes from seven judges. The best and worst scores are eliminated. Your score is the average of the remaining votes. You must create a program that receives the gymnast's name and the scores of the seven judges achieved by the athlete in his/her performance and then reports the average, as described above (remove the best and worst vault and then calculate the average with the remaining scores). The scores are not reported in order. An example of the program output should be as shown below: Athlete: Aparecido Parente Score: 9.9 Score: 7.5 Score: 9.5 Score: 8.5 Score: 9.0 Score: 8.5 Score: 9.7 Final result: Athlete: Aparecido Parente Best score: 9.9 Worst score: 7.5 Average: 9.04
+"""

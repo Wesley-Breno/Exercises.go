@@ -1,0 +1,1 @@
+Given H = 1 + 1/2 + 1/3 + 1/4 + ... + 1/N, write a program that calculates the value of H with N terms.

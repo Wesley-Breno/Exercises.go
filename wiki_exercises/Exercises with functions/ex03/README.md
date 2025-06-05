@@ -1,0 +1,1 @@
+Write a program with a function that requires one argument. The function returns the character value ‘P’ if its argument is positive, and ‘N’ if its argument is zero or negative.

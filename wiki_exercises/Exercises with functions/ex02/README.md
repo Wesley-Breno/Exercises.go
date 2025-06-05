@@ -1,0 +1,1 @@
+Write a program, with a function that requires three arguments, and that provides the sum of these three arguments.

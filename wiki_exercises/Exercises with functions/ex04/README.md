@@ -1,0 +1,1 @@
+Write a program with a function called sumTax. The function has two formal parameters: taxRate, which is the amount of sales tax expressed as a percentage, and cost, which is the cost of an item before tax. The function “changes” the cost value to include sales tax.

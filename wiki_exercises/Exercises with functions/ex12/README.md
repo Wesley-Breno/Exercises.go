@@ -1,0 +1,2 @@
+Draw a frame. Create a function that draws a rectangle using the characters '+', '−', and '|'.
+This function should receive two parameters: rows and columns. The default value is a minimum value of 1 and the maximum value is 20. If values outside the range are entered, they should be elegantly changed to values within the range.

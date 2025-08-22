@@ -1,0 +1,1 @@
+Make a program that reads a vector of 5 integers and displays them.

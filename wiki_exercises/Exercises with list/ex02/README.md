@@ -1,0 +1,1 @@
+Make a program that reads a vector of 10 real numbers and displays them in reverse order.

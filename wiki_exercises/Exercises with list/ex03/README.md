@@ -1,0 +1,1 @@
+Make a program that reads 4 notes, displays the notes and the average on the screen.

@@ -1,0 +1,1 @@
+Write a program that reads a vector of 10 characters and tells you how many consonants were read. Print the consonants.

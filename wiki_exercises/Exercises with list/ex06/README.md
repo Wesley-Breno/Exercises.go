@@ -1,0 +1,1 @@
+Write a program that asks for the four grades of 10 students, calculates and stores in a vector the average of each student, and prints the number of students with an average greater than or equal to 7.0.

@@ -1,0 +1,1 @@
+Make a program that reads a vector of 5 integers, shows the sum, multiplication and numbers.

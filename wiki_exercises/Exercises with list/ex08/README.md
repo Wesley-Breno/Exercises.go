@@ -1,0 +1,1 @@
+Write a program that asks for the age and height of five people, stores each piece of information in its respective vector. Print the age and height in reverse order to the order read.

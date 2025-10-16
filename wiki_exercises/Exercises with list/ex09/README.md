@@ -1,0 +1,1 @@
+Write a program that reads a vector A with 10 integers, calculates and displays the sum of the squares of the vector's elements.

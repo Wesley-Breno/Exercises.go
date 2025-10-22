@@ -1,0 +1,1 @@
+Write a program that reads two vectors with 10 elements each. Generates a third vector of 20 elements, whose values ​​should be composed of the interleaved elements of the other two vectors.

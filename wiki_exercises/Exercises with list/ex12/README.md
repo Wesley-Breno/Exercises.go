@@ -1,0 +1,1 @@
+The ages and heights of 30 students were recorded. Write a program that determines how many students over 13 years old have a height shorter than the average height of these students.

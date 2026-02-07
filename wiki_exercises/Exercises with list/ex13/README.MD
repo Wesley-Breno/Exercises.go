@@ -1,0 +1,1 @@
+Write a program that receives the average temperature for each month of the year and stores them in a list. After this, calculate the annual average of the temperatures and show all temperatures above the annual average, and in which month they occurred (show the month in full: 1 – January, 2 – February, ...).

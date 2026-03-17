@@ -1,0 +1,9 @@
+Voting result:
+
+A total of 8 votes were counted.
+
+Player	Votes		%
+9		4		50.0%
+10		3		37.5%
+11		1		12.5%
+The best player was number 9, with 4 votes, corresponding to 50.0% of the total votes.
